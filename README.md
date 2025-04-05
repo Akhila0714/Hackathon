@@ -1,11 +1,4 @@
 # Hackathon
-htTeam Members:
-2303A51417 � Akhila
-2303A51335 � Karthik
-2303A51359 � Abhilash
-2303A51334 � Arshad
-2303A51356 - Poojitha
-[TeamMembers.txt](https://github.com/user-attachments/files/19611943/TeamMembers.txt)
 tps://github.com/user-attachments/assets/b205a217-c050-4127-b57f-3d1abf70fd7d
 #include <stdio.h>
 #include <string.h>
